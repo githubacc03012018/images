@@ -1,1 +1,1 @@
-# images
+# Used to store images
